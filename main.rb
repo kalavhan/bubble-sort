@@ -4,8 +4,7 @@ def bubble_sort(array)
   counter = array.length - 1
   array.each do
     index = 0
-    extra_counter = counter
-    while index < extra_counter
+    while index < counter
       array[index], array[index + 1] = array[index + 1], array[index] if array[index] > array[index + 1]
       index += 1
     end
@@ -18,8 +17,7 @@ def bubble_sort_by(array)
   counter = array.length - 1
   array.each do
     index = 0
-    extra_counter = counter
-    while index < extra_counter
+    while index < counter
       array[index], array[index + 1] = array[index + 1], array[index] if yield(array[index], array[index + 1]).positive?
       index += 1
     end
