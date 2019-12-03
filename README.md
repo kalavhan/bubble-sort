@@ -27,7 +27,6 @@
 * [Roadmap](#roadmap)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -40,7 +39,7 @@ This is the first Ruby collaborative project, a code to bubble sort the values
  -Understanding loops and arrays
  
 ### Assignment:
-Full requeriments for the practice are in ![here](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks)
+Full requeriments for the practice are in [here](https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks)
 
 
 
@@ -79,4 +78,3 @@ Project Link: [Project repo](https://github.com/kalavhan/bubble-sort/)
 [contributors-url]: https://github.com/kalavhan/Newsweek/graphs/contributors
 [issues-shield]: https://img.shields.io/badge/issues-0-%2300ff00
 [issues-url]: https://github.com/kalavhan/Newsweek/issues
-[product-screenshot]: img/product_ss.png
