@@ -25,11 +25,3 @@ def bubble_sort_by(array)
   end
   array
 end
-
-array = [35, 9, 7, 13, 1, 36, 2, 83, 10]
-
-p bubble_sort(array)
-
-new_array = %w[Hey Hello Hi]
-
-p bubble_sort_by(new_array) { |left, right| left.length - right.length }
